@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**odiwuorfaith024-cmd/odiwuorfaith024-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Odiwuor Faith Achieng
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning Bachelor of Law at the University of Nairobi as a passionate legal writer and researcher, i use ai to make my work easier and advance my legal skills.
+- I'm interested in AI machine learning,legal tech and building ai tools that imrove access to justice
+- I'm looking to collaborate on beginner-friendly open source projects to learn more and advance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS
+- legal tech
+## How to Reach Me
+- Email: odiwuorfaith024@gmail.com
+- LinkedIn: www.linkedin.com/in/odiwuor-achieng-faith-32ba23403
