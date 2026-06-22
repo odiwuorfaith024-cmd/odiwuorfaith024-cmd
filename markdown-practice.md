@@ -20,7 +20,7 @@
   print["hello, world]
   ```
   > The expert in anything was once a beginner,so keep going my love.
-  ## Abou Me
+  ## About Me
 my name is **Odiwuor Achieng and i'm currently learning AI and legal tech
 this year my goal is to grow my skills,
   1.master `git` and GitHub
