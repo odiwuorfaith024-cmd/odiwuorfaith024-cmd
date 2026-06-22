@@ -17,7 +17,7 @@
   - [ ] Build my first website
  
   ```python
-  print["hello, world]
+  print[hello world,i'm your lawyer]
   ```
   > The expert in anything was once a beginner,so keep going my love.
   ## About Me
