@@ -4,7 +4,7 @@
 -i want to learn Git and 
 - i want to learn how to prompt and create content using ai
 - i want to learn on being an AI legal expert
- 1.stage your files
+  1.stage your files
   2. commit the changes
   3. confirm the commit
   |Tool |purpose|Link|
@@ -17,7 +17,7 @@
   - [ ] Build my first website
  
   ```python
-  print[hello world,i'm your lawyer]
+  print[hello world,i'm a great lawyer]
   ```
   > The expert in anything was once a beginner,so keep going my love.
   ## About Me
